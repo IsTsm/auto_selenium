@@ -1,0 +1,15 @@
+# Игнорировать конфигурации PyCharm
+.idea/
+
+# Кэш и мусор Python
+__pycache__/
+*.pyc
+
+# Виртуальное окружение
+.venv/
+# Логи
+*.log
+
+# Файлы ОС
+.DS_Store
+Thumbs.db
